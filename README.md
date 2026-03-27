@@ -1,4 +1,4 @@
-# ExplorerPatcher-jp
+# ExplorerPatcher-jp.ymL
 ExplorerPatcherに多言語化が実装されたため、ExplorerPatcher-jpの更新は終了しました。  
 今後は[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)をご利用ください。
 ## お礼
